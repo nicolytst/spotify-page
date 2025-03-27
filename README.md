@@ -12,4 +12,4 @@ Este projeto é uma página da web simples que exibe informações sobre artista
 - **CSS**: Estilização e layout
 - **JavaScript**: Interatividade e manipulação de dados
 
-Feito com ♥ by Nicoly
+Feito com ♥ por Nicoly (https://www.linkedin.com/in/nicoly-thereza-a96391285/)
